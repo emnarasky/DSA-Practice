@@ -7,3 +7,4 @@ This repository contains projects and visualizations created from the Data Scien
 ## Statistics
 
 ## Visual Communications
+[yelp_labeled.txt](https://github.com/emnarasky/DSA-Practice/files/8439389/yelp_labeled.txt)
